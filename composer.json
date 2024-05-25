@@ -9,7 +9,8 @@
         "greggilbert/recaptcha": "^1.1",
         "laravel/framework": "^11.0",
         "laravel/tinker": "^2.9",
-        "mews/captcha": "^3.3"
+        "mews/captcha": "^3.3",
+        "stancl/tenancy": "^3.8"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
